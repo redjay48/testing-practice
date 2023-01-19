@@ -6,7 +6,6 @@ test('Addition', () => {
 
 test('Subtraction', () => {
     expect(calculator.subtract(5,2)).toBe(3);
-    expect(calculator.multiply(4,6)).toBe(24);
 });
 
 test('Multiplication', () => {
