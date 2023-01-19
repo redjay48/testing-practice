@@ -16,3 +16,5 @@ function analyzeArray(array) {
         length: len
     }
 }
+
+module.exports = analyzeArray;
